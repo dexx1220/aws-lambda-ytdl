@@ -1,6 +1,15 @@
 # Info
 This project makes use of youtube-dl to extract info from videos and outputs it in JSON format.
 
+# Requirements
+1. AWS account
+2. Serverless installed
+3. Python (optional)
+4. Youtube-DL (optional)
+
+# Install Serverless
+`npm install -g serverless`
+
 # Deploy
 `serverless deploy`
 
